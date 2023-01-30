@@ -1,4 +1,4 @@
-# SpiderWeb-Image-logger
+# SpiderWeb-logger
 Working
 # SpiderWeb-Logger-Updated
 🔥 SpiderWeb-Image-Logger 
